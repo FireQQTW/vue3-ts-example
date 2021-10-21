@@ -1,0 +1,1 @@
+export * as Fake from './fake'
